@@ -12,7 +12,7 @@ Prism.languages.perl = {
 	],
 	// TODO Could be nice to handle Heredoc too.
 	'string': [
-		// q/../
+		// q/./
 		/\b(?:q|qq|qx|qw)\s*([^a-zA-Z0-9\s\{\(\[<])(?:[^\\]|\\[\s\S])*?\1/,
 	
 		// q a...a
@@ -38,7 +38,7 @@ Prism.languages.perl = {
 		/'(?:[^'\\\r\n]|\\.)*'/
 	],
 	'regex': [
-		// m/../
+		// m/./
 		/\b(?:m|qr)\s*([^a-zA-Z0-9\s\{\(\[<])(?:[^\\]|\\[\s\S])*?\1[msixpodualngc]*/,
 	
 		// m a...a
@@ -58,7 +58,7 @@ Prism.languages.perl = {
 
 		// The lookbehinds prevent -s from breaking
 		// FIXME We don't handle change of separator like s(...)[...]
-		// s/../../
+		// s/././
 		{
 			pattern: /(^|[^-]\b)(?:s|tr|y)\s*([^a-zA-Z0-9\s\{\(\[<])(?:[^\\]|\\[\s\S])*?\2(?:[^\\]|\\[\s\S])*?\2[msixpodualngcer]*/,
 			lookbehind: true
@@ -94,7 +94,7 @@ Prism.languages.perl = {
 			lookbehind: true
 		},
 	
-		// /../
+		// /./
 		// The look-ahead tries to prevent two divisions on
 		// the same line from being highlighted as regex.
 		// This does not support multi-line regex.
