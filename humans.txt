@@ -1,0 +1,17 @@
+/** TEAM **/
+Father: Raimis
+CEO: Raimis
+CTO: Martin
+CFO: Grant
+CCO: Barry
+
+LT Ops: Inga
+EU Ops: Edgaras
+
+Lead Dev: Sergey
+Back end: Terry, Claire, Jason, Saulius, Vilius
+Front end: Andrew, Andy, Bill, Danute, Darius
+
+
+/** There used to be more **/
+Olga, Vadim, Remigijus
