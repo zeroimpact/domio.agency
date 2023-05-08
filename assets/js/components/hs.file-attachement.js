@@ -52,7 +52,7 @@
 				removeConfirmation: true
 			},
 			uploadFile: {
-				url: './././html/assets/include/php/file-upload/upload.php',
+				url: '../../../html/assets/include/php/file-upload/upload.php',
 				data: {},
 				type: 'POST',
 				enctype: 'multipart/form-data',

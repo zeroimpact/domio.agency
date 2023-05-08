@@ -12,7 +12,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/././index.html">
+        <entry file="file://$PROJECT_DIR$/../../index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-8625" />
           </provider>
@@ -171,7 +171,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/././index.html">
+    <entry file="file://$PROJECT_DIR$/../../index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8625" />
       </provider>
