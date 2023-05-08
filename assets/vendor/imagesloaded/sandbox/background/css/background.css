@@ -12,7 +12,7 @@
 }
 
 .thunder-cloud {
-  background: url('./././test/img/thunder-cloud.jpg');
+  background: url('../../../test/img/thunder-cloud.jpg');
   background-size: contain;
 }
 

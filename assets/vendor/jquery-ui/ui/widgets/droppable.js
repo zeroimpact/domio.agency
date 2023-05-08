@@ -21,8 +21,8 @@
 			"jquery",
 			"./draggable",
 			"./mouse",
-			"./version",
-			"./widget"
+			"../version",
+			"../widget"
 		], factory );
 	} else {
 

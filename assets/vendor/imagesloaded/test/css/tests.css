@@ -19,7 +19,7 @@ img {
 }
 
 .bg-box.thunder-cloud {
-  background: url('./img/thunder-cloud.jpg');
+  background: url('../img/thunder-cloud.jpg');
   background-size: contain;
 }
 

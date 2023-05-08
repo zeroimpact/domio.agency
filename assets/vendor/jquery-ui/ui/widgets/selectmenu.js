@@ -14,9 +14,9 @@
 // jscs:enable maximumLineLength
 //>>docs: http://api.jqueryui.com/selectmenu/
 //>>demos: http://jqueryui.com/selectmenu/
-//>>css.structure: ././themes/base/core.css
-//>>css.structure: ././themes/base/selectmenu.css, ././themes/base/button.css
-//>>css.theme: ././themes/base/theme.css
+//>>css.structure: ../../themes/base/core.css
+//>>css.structure: ../../themes/base/selectmenu.css, ../../themes/base/button.css
+//>>css.theme: ../../themes/base/theme.css
 
 ( function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
@@ -25,14 +25,14 @@
 		define( [
 			"jquery",
 			"./menu",
-			"./escape-selector",
-			"./form-reset-mixin",
-			"./keycode",
-			"./labels",
-			"./position",
-			"./unique-id",
-			"./version",
-			"./widget"
+			"../escape-selector",
+			"../form-reset-mixin",
+			"../keycode",
+			"../labels",
+			"../position",
+			"../unique-id",
+			"../version",
+			"../widget"
 		], factory );
 	} else {
 

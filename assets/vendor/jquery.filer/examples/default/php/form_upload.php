@@ -1,5 +1,5 @@
 <?php
-    include('./././php/class.uploader.php');
+    include('../../../php/class.uploader.php');
 
     $uploader = new Uploader();
     $data = $uploader->upload($_FILES['files'], array(
@@ -7,7 +7,7 @@
         'maxSize' => 10, //Maximum Size of files {null, Number(in MB's)}
         'extensions' => null, //Whitelist for file extension. {null, Array(ex: array('jpg', 'png'))}
         'required' => false, //Minimum one file is required for upload {Boolean}
-        'uploadDir' => './././uploads/', //Upload directory {String}
+        'uploadDir' => '../../../uploads/', //Upload directory {String}
         'title' => array('name'), //New file name {null, String, Array} *please read documentation in README.md
         'removeFiles' => true, //Enable file exclusion {Boolean(extra for jQuery.filer), String($_POST field name containing json data with file names)}
         'replace' => true, //Replace the file if it already exists  {Boolean}

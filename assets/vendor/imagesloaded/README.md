@@ -336,7 +336,7 @@ You can manage dependencies with [Bower](http://bower.io). Set `baseUrl` to `bow
 requirejs.config({
   baseUrl: 'bower_components/',
   paths: { // path to your app
-    app: './'
+    app: '../'
   }
 });
 

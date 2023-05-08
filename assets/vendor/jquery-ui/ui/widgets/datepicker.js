@@ -14,9 +14,9 @@
 //>>description: Displays a calendar from an input or inline for selecting dates.
 //>>docs: http://api.jqueryui.com/datepicker/
 //>>demos: http://jqueryui.com/datepicker/
-//>>css.structure: ././themes/base/core.css
-//>>css.structure: ././themes/base/datepicker.css
-//>>css.theme: ././themes/base/theme.css
+//>>css.structure: ../../themes/base/core.css
+//>>css.structure: ../../themes/base/datepicker.css
+//>>css.theme: ../../themes/base/theme.css
 
 ( function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
@@ -24,8 +24,8 @@
 		// AMD. Register as an anonymous module.
 		define( [
 			"jquery",
-			"./version",
-			"./keycode"
+			"../version",
+			"../keycode"
 		], factory );
 	} else {
 

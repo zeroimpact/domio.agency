@@ -99,7 +99,7 @@ Set [baseUrl](http://requirejs.org/docs/api.html#config-baseUrl) to bower_compon
 requirejs.config({
   baseUrl: 'bower_components',
   paths: {
-    app: './'
+    app: '../'
   }
 });
 

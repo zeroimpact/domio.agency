@@ -12,9 +12,9 @@
 //>>description: Displays a flexible slider with ranges and accessibility via keyboard.
 //>>docs: http://api.jqueryui.com/slider/
 //>>demos: http://jqueryui.com/slider/
-//>>css.structure: ././themes/base/core.css
-//>>css.structure: ././themes/base/slider.css
-//>>css.theme: ././themes/base/theme.css
+//>>css.structure: ../../themes/base/core.css
+//>>css.structure: ../../themes/base/slider.css
+//>>css.theme: ../../themes/base/theme.css
 
 ( function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
@@ -23,9 +23,9 @@
 		define( [
 			"jquery",
 			"./mouse",
-			"./keycode",
-			"./version",
-			"./widget"
+			"../keycode",
+			"../version",
+			"../widget"
 		], factory );
 	} else {
 

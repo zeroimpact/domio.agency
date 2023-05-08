@@ -2,14 +2,14 @@
 // YouTube plugin
 // ==========================================================================
 
-import ui from './ui';
-import { createElement, replaceElement, toggleClass } from './utils/elements';
-import { triggerEvent } from './utils/events';
-import fetch from './utils/fetch';
-import is from './utils/is';
-import loadImage from './utils/loadImage';
-import loadScript from './utils/loadScript';
-import { format, generateId } from './utils/strings';
+import ui from '../ui';
+import { createElement, replaceElement, toggleClass } from '../utils/elements';
+import { triggerEvent } from '../utils/events';
+import fetch from '../utils/fetch';
+import is from '../utils/is';
+import loadImage from '../utils/loadImage';
+import loadScript from '../utils/loadScript';
+import { format, generateId } from '../utils/strings';
 
 // Parse YouTube ID from URL
 function parseId(url) {

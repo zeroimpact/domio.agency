@@ -12,7 +12,7 @@
 //>>description: Enables dragging functionality for any element.
 //>>docs: http://api.jqueryui.com/draggable/
 //>>demos: http://jqueryui.com/draggable/
-//>>css.structure: ././themes/base/draggable.css
+//>>css.structure: ../../themes/base/draggable.css
 
 ( function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
@@ -21,13 +21,13 @@
 		define( [
 			"jquery",
 			"./mouse",
-			"./data",
-			"./plugin",
-			"./safe-active-element",
-			"./safe-blur",
-			"./scroll-parent",
-			"./version",
-			"./widget"
+			"../data",
+			"../plugin",
+			"../safe-active-element",
+			"../safe-blur",
+			"../scroll-parent",
+			"../version",
+			"../widget"
 		], factory );
 	} else {
 

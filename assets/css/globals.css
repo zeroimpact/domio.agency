@@ -1291,31 +1291,31 @@
   Images Grid
 ------------------------------------*/
 .g-bg-grid-v1--before::before {
-  background-image: url(./img/bg/grid/wave.png);
+  background-image: url(../img/bg/grid/wave.png);
 }
 
 .g-bg-grid-v2--before::after {
-  background-image: url(./img/bg/grid/tile-left.png);
+  background-image: url(../img/bg/grid/tile-left.png);
 }
 
 .g-bg-grid-v3--before::after {
-  background-image: url(./img/bg/grid/tile-right.png);
+  background-image: url(../img/bg/grid/tile-right.png);
 }
 
 .g-bg-grid-v4--before::after {
-  background-image: url(./img/bg/grid/diagonal-left.png);
+  background-image: url(../img/bg/grid/diagonal-left.png);
 }
 
 .g-bg-grid-v5--before::after {
-  background-image: url(./img/bg/grid/diagonal-right.png);
+  background-image: url(../img/bg/grid/diagonal-right.png);
 }
 
 .g-bg-grid-v6--before::after {
-  background-image: url(./img/bg/grid/zigzag-left.png);
+  background-image: url(../img/bg/grid/zigzag-left.png);
 }
 
 .g-bg-grid-v7--before::after {
-  background-image: url(./img/bg/grid/zigzag-right.png);
+  background-image: url(../img/bg/grid/zigzag-right.png);
 }
 
 /*------------------------------------
@@ -1360,7 +1360,7 @@
   Background Patterns
 ------------------------------------*/
 .g-bg-pattern-green {
-  background-image: url("./img/bg/pattern--green.png");
+  background-image: url("../img/bg/pattern--green.png");
 }
 
 /*------------------------------------

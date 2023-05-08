@@ -20138,27 +20138,27 @@ li:last-child .u-dot-line-v2::after, li:last-child
 }
 
 .u-marker-bg-primary {
-  background-image: url(./img/bg/marker/marker-bg-primary.png);
+  background-image: url(../img/bg/marker/marker-bg-primary.png);
 }
 
 .u-marker-bg-green {
-  background-image: url(./img/bg/marker/marker-bg-green.png);
+  background-image: url(../img/bg/marker/marker-bg-green.png);
 }
 
 .u-marker-bg-black {
-  background-image: url(./img/bg/marker/marker-bg-black.png);
+  background-image: url(../img/bg/marker/marker-bg-black.png);
 }
 
 .u-marker-bg-white {
-  background-image: url(./img/bg/marker/marker-bg-white.png);
+  background-image: url(../img/bg/marker/marker-bg-white.png);
 }
 
 .u-marker-bg-red {
-  background-image: url(./img/bg/marker/marker-bg-red.png);
+  background-image: url(../img/bg/marker/marker-bg-red.png);
 }
 
 .u-marker-bg-yellow {
-  background-image: url(./img/bg/marker/marker-bg-yellow.png);
+  background-image: url(../img/bg/marker/marker-bg-yellow.png);
 }
 
 /*------------------------------------
@@ -26653,7 +26653,7 @@ pre[class*="language-"] .toolbar-item a {
 }
 
 .js-carousel {
-  background: url(././assets/img/preloaders/preloader-black.svg) no-repeat 50% 50%;
+  background: url(../../assets/img/preloaders/preloader-black.svg) no-repeat 50% 50%;
 }
 
 .js-carousel .js-next,

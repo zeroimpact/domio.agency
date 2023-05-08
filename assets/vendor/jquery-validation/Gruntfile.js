@@ -37,7 +37,7 @@ umdEnd = "return $;" +
 
 umdStandardDefine = "\t\tdefine( [\"jquery\"], factory );\n";
 umdAdditionalDefine = "\t\tdefine( [\"jquery\", \"./jquery.validate\"], factory );\n";
-umdLocalizationDefine = "\t\tdefine( [\"jquery\", \"./jquery.validate\"], factory );\n";
+umdLocalizationDefine = "\t\tdefine( [\"jquery\", \"../jquery.validate\"], factory );\n";
 
 grunt.initConfig( {
 	pkg: grunt.file.readJSON( "package.json" ),

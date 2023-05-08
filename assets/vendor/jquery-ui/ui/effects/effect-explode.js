@@ -21,8 +21,8 @@
 		// AMD. Register as an anonymous module.
 		define( [
 			"jquery",
-			"./version",
-			"./effect"
+			"../version",
+			"../effect"
 		], factory );
 	} else {
 

@@ -12,9 +12,9 @@
 //>>description: Shows additional information for any element on hover or focus.
 //>>docs: http://api.jqueryui.com/tooltip/
 //>>demos: http://jqueryui.com/tooltip/
-//>>css.structure: ././themes/base/core.css
-//>>css.structure: ././themes/base/tooltip.css
-//>>css.theme: ././themes/base/theme.css
+//>>css.structure: ../../themes/base/core.css
+//>>css.structure: ../../themes/base/tooltip.css
+//>>css.theme: ../../themes/base/theme.css
 
 ( function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
@@ -22,11 +22,11 @@
 		// AMD. Register as an anonymous module.
 		define( [
 			"jquery",
-			"./keycode",
-			"./position",
-			"./unique-id",
-			"./version",
-			"./widget"
+			"../keycode",
+			"../position",
+			"../unique-id",
+			"../version",
+			"../widget"
 		], factory );
 	} else {
 

@@ -14,9 +14,9 @@
 // jscs:enable maximumLineLength
 //>>docs: http://api.jqueryui.com/progressbar/
 //>>demos: http://jqueryui.com/progressbar/
-//>>css.structure: ././themes/base/core.css
-//>>css.structure: ././themes/base/progressbar.css
-//>>css.theme: ././themes/base/theme.css
+//>>css.structure: ../../themes/base/core.css
+//>>css.structure: ../../themes/base/progressbar.css
+//>>css.theme: ../../themes/base/theme.css
 
 ( function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
@@ -24,8 +24,8 @@
 		// AMD. Register as an anonymous module.
 		define( [
 			"jquery",
-			"./version",
-			"./widget"
+			"../version",
+			"../widget"
 		], factory );
 	} else {
 
