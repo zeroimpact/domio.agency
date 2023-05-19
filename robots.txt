@@ -1,0 +1,2 @@
+User-agent:*
+Sitemap: https://domio.agency/sitemap.xml
