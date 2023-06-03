@@ -4,151 +4,151 @@
 
   <url>
        <loc>https://domio.agency/</loc>
-       <lastmod>2023-04-29T08:09:30+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
-       <loc>https://domio.agency/lt/</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
        <loc>https://domio.agency/index.html</loc>
-       <lastmod>2023-04-29T08:09:30+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://domio.agency/services.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://domio.agency/contact.html</loc>
-       <lastmod>2023-04-29T08:09:30+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://domio.agency/ecommerce.html</loc>
-       <lastmod>2023-04-29T08:09:30+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://domio.agency/mobile-first-web-design.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://domio.agency/search-engine-optimisation.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://domio.agency/social-media-advertising.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://domio.agency/social-media-management.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://domio.agency/ppc-management.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://domio.agency/legal.html</loc>
-       <lastmod>2023-04-29T08:09:30+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://domio.agency/sitemap.xml</loc>
-       <lastmod>2023-04-18T09:00:04+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/index.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/services.html</loc>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/contact.html</loc>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/ecommerce.html</loc>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/mobile-first-web-design.html</loc>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/search-engine-optimisation.html</loc>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/social-media-advertising.html</loc>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/social-media-management.html</loc>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/ppc-management.html</loc>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/lt/</loc>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/legal.html</loc>
+       <lastmod>2023-05-02T12:57:11+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://domio.agency/sitemap.xml</loc>
+       <lastmod>2023-04-29T08:37:28+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/paslaugos.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/kontaktai.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/e-komercija.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/internetiniu-svetainiu-kurimas.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/socialiniu-tinklu-marketingas.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/mobiliuju-aplikaciju-kurimas.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/el-parduotuviu-interneto-svetainiu-prieziura-ir-administravimas.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/seo-paslaugos.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/socialiniu-tinklu-administravimas.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/ppc-administravimas.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/teisine-informacija.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
@@ -166,13 +166,13 @@
   </url>
   <url>
        <loc>https://domio.agency/domio-privacy-policy.html</loc>
-       <lastmod>2023-04-29T08:09:30+00:00</lastmod>
+       <lastmod>2023-05-30T10:30:51+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://domio.agency/lt/privatumo-politika.html</loc>
-       <lastmod>2023-04-29T08:09:31+00:00</lastmod>
+       <lastmod>2023-05-11T13:54:34+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.5120</priority>
   </url>
