@@ -1,6 +1,6 @@
 /** TEAM **/
-Father: Raimis
-CEO: Raimis
+Father: Ramūnas
+CEO: Ramūnas
 CTO: Martin
 CFO: Grant
 CCO: Barry
